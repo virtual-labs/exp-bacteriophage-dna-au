@@ -9,7 +9,7 @@
         "c": "A virus which infect a bacterium",
         "d": "A virus which infect a prophage"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
@@ -20,7 +20,7 @@
         "c": "Phenol",
         "d": "Chloroform"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
@@ -31,7 +31,7 @@
         "c": "Complex",
         "d": "None of these"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
@@ -53,7 +53,7 @@
         "c": "Concatamerization",
         "d": "All the above"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
