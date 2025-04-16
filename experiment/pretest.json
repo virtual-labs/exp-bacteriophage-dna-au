@@ -2,35 +2,56 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "A bacteriophage is____________",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "A bacterium which infect a virus",
+        "b": "A virus which infect a fungus",
+        "c": "A virus which infect a bacterium",
+        "d": "A virus which infect a prophage"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Protein coat of the bacteriophage is digested by",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "SDS",
+        "b": "Proteinase K",
+        "c": "Phenol",
+        "d": "Chloroform"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which capsid symmetry is exhibited by most of the phages?",
+      "answers": {
+        "a": "Helical",
+        "b": "Icosahedral",
+        "c": "Complex",
+        "d": "None of these"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Area of lysis on a bacterial lawn culture produced by a phage is known as",
+      "answers": {
+        "a": "Pox",
+        "b": "Pock",
+        "c": "Plaque",
+        "d": "None of these"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "PA bacterial defense mechanism against bacteriophage is called",
+      "answers": {
+        "a": " Polymerization",
+        "b": "Restriction",
+        "c": "Concatamerization",
+        "d": "All the above"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
