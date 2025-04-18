@@ -1,0 +1,38 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Protein coat of the bacteriophage is digested by",
+      "answers": {
+        "a": "SDS",
+        "b": "Proteinase K",
+        "c": "Phenol",
+        "d": "Chloroform"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which capsid symmetry is exhibited by most of the phages?",
+      "answers": {
+        "a": "Helical",
+        "b": "Icosahedral",
+        "c": "Complex",
+        "d": "None of these"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "PA bacterial defense mechanism against bacteriophage is called",
+      "answers": {
+        "a": " Polymerization",
+        "b": "Restriction",
+        "c": "Concatamerization",
+        "d": "All the above"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
