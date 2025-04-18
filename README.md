@@ -1,24 +1,18 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Biotechnology and Biomedical Engineering
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Molecular Biology Virtual Lab II 
+<b> Experiment|     <b> Extraction of Bacteriophage DNA from Large Scale Cultures Using Proteinase K and SDS
+
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+To extract high-quality bacteriophage DNA from large-scale lysates using a protocol that involves the enzymatic degradation of proteins by Proteinase K and the disruption of cell membranes and protein denaturation using Sodium Dodecyl Sulfate (SDS), enabling downstream applications such as restriction digestion, cloning, or sequencing.
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Dr. Shyam Diwakar 
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
-
-### Contributors List
-
-SrNo | Name | Faculty or Student | Department| Institute | Email id
-:--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+<b> Institute | <b>  Amrita Vishwa Vidyapeetham
+<b> Email id|     <b>  shyam@amrita.edu
+<b> Department |  Amrita Mind Brain Center
